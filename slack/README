@@ -1,0 +1,7 @@
+1. npm -g install serverless
+
+2. git clone the repo.
+
+3. change the handler.js slackapiendpoint variable to your own slack endpoint.
+
+4. sls deploy -v
