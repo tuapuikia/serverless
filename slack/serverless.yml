@@ -43,7 +43,7 @@ provider:
 #  artifact: my-service-code.zip
 
 functions:
-  hello:
+  slack:
     handler: handler.slack
     events:
       - sns: service-status
